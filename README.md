@@ -63,7 +63,6 @@ To run this project, you need the **Arduino IDE** and the following libraries:
     ```
     [http://192.168.4.1]
     ```
-    [cite_start]*[cite: 121]*
 5.  Use the interface to:
     * Type a message and click **Send**.
     * Click emoji buttons to trigger animations.
@@ -80,10 +79,10 @@ To run this project, you need the **Arduino IDE** and the following libraries:
 ---
 
 ## 📊 Results
-✔ Ultra-low latency
-✔ Smooth animations
-✔ Multi-user capable
-✔ Accurate input mirroring
+* ✔ Ultra-low latency
+* ✔ Smooth animations
+* ✔ Multi-user capable
+* ✔ Accurate input mirroring
 
 These results align with the findings of the original project report.
 
