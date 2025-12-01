@@ -33,7 +33,7 @@ The system utilizes the unique "2-in-1" architecture of the Arduino UNO R4 WiFi:
     * [cite_start]Operates in Access Point (AP) mode to host the web interface[cite: 61].
     * [cite_start]Communicates with the RA4M1 via the onboard logic level shifter (TXB0108DQSR)[cite: 92].
 3.  **Display:**
-    * [cite_start]Onboard 12x8 LED Matrix (or external 8x32 matrix via GPIO)[cite: 64].
+    * Onboard 12x8 LED Matrix (or external 8x32 matrix via GPIO).
 
 ---
 
@@ -61,7 +61,7 @@ The system utilizes the unique "2-in-1" architecture of the Arduino UNO R4 WiFi:
 3.  [cite_start]Connect to the SSID: **`UNO_Matrix`**[cite: 66].
 4.  Open a web browser and navigate to:
     ```
-    [http://192.168.4.1](http://192.168.4.1)
+    [http://192.168.4.1]
     ```
     [cite_start]*[cite: 121]*
 5.  Use the interface to:
@@ -79,23 +79,18 @@ The system utilizes the unique "2-in-1" architecture of the Arduino UNO R4 WiFi:
 
 ---
 
-## 📷 Gallery
-*Visuals of the Web Interface and Hardware setup.*
+## 📊 Results
+✔ Ultra-low latency
+✔ Smooth animations
+✔ Multi-user capable
+✔ Accurate input mirroring
 
-| [cite_start]Web Interface [cite: 122] | [cite_start]Hardware Output [cite: 147] |
-|:---:|:---:|
-| <img src="path_to_screenshot_of_phone_ui.jpg" width="250"> | <img src="path_to_photo_of_board.jpg" width="250"> |
-
----
-
-## 🔮 Future Scope
-* [cite_start]**Cloud Integration:** Remote updates via IoT cloud platforms[cite: 169].
-* [cite_start]**Custom Animations:** Library expansion for more complex emojis[cite: 170].
-* [cite_start]**Security:** Adding password authentication to the Web Interface[cite: 171].
+These results align with the findings of the original project report.
 
 ---
 
----
+MIT License
 
-## 📄 License
-This project is open-source. Feel free to use and modify!
+Copyright (c) 2025  
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
