@@ -7,9 +7,9 @@ Arduino UNO R4 WiFi + ESP32-S3 | Real-Time Message &amp; Emoji Display
 ![Connectivity](https://img.shields.io/badge/Connectivity-WiFi%20%7C%20ESP32--S3-green)
 
 ## 📜 Project Overview
-[cite_start]This project implements an interactive **WiFi-controlled message and emoji display system** using the **Arduino UNO R4 WiFi**[cite: 21]. [cite_start]By leveraging the board's dual-chip architecture (Renesas RA4M1 + ESP32-S3), the system allows users to wirelessly send scrolling text and animations to the LED matrix via a smartphone browser[cite: 22].
+This project implements an interactive **WiFi-controlled message and emoji display system** using the **Arduino UNO R4 WiFi**[cite: 21]. [cite_start]By leveraging the board's dual-chip architecture (Renesas RA4M1 + ESP32-S3), the system allows users to wirelessly send scrolling text and animations to the LED matrix via a smartphone browser.
 
-[cite_start]It operates without an internet connection by hosting its own local Access Point (AP), making it perfect for educational demonstrations, IoT learning, and portable signage[cite: 23].
+It operates without an internet connection by hosting its own local Access Point (AP), making it perfect for educational demonstrations, IoT learning, and portable signage.
 
 ---
 
